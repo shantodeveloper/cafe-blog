@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "cover_img": "https://i.ibb.co.com/DKLrFGd/1.jpg",
+    "title": "The Rise of AI: Future of Technology",
+    "author": "John Doe",
+    "author_img": "https://example.com/images/author1.jpg",
+    "posted_date": "2024-10-10",
+    "reading_time": 5,
+    "hashtag": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": "002",
+    "cover_img": "https://i.ibb.co.com/2qpxWYq/2.png",
+    "title": "Sustainable Living: A New Era",
+    "author": "Sarah Green",
+    "author_img": "https://example.com/images/author2.jpg",
+    "posted_date": "2024-09-25",
+    "reading_time": 8,
+    "hashtag": ["#Sustainability", "#EcoFriendly", "#Living"]
+  },
+  {
+    "id": "003",
+    "cover_img": "https://i.ibb.co.com/yWb9MDj/3.png",
+    "title": "Exploring Space: The Final Frontier",
+    "author": "Mark Spencer",
+    "author_img": "https://example.com/images/author3.jpg",
+    "posted_date": "2024-08-30",
+    "reading_time": 10,
+    "hashtag": ["#Space", "#Exploration", "#Science"]
+  },
+  {
+    "id": "004",
+    "cover_img": "https://i.ibb.co.com/LvNkXqL/4.jpg",
+    "title": "Healthy Eating Habits for a Better Life",
+    "author": "Emily Johnson",
+    "author_img": "https://example.com/images/author4.jpg",
+    "posted_date": "2024-07-20",
+    "reading_time": 7,
+    "hashtag": ["#Health", "#Nutrition", "#Wellness"]
+  }
+]
